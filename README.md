@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/23b3a9bb-a1f9-400f-a89f-f69a20983847)
+![image](https://www.ramelseg.com.br/lovable-uploads/ce5802ea-5404-48ed-ac8f-7ad335ff753c.png)
 
 - 👋 Olá Seja Bem Vindo a Ramel Tecnologia E Segurança Eletronica
 - 👀 Aqui voce encontrará scripts desenvolvidos e compartilhados para workcenter
