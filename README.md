@@ -21,3 +21,6 @@ Scripts Disponiveis para Aquisição
 * ODOO
 
 * Entren outros
+
+* visite https://ramelseg.com.br
+* https://nocodebr.pages.dev
